@@ -1,0 +1,25 @@
+
+body {
+    background-color: lightskyblue;
+    width: 1000px;
+}
+
+p {
+    font-size: 30px;
+    background-color: teal;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    margin-left: 25px;
+}
+
+h1 {
+    background-color:teal;
+    text-align: center;
+}
+
+h2 {
+    background-color: teal;
+    color: white;
+    width: 700px;
+    text-align: center;
+}

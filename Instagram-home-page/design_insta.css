@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.phone {
+    padding-top: 0px;
+    height: 700px;
+    float: right;
+    margin: 20px;
+}
+body {
+    background-color: #fafafa!important;
+}
+.container {
+    margin-top: 10px;
+}
+.right-column {
+    background: #fff;
+    border: 1px solid #e6e6e6;
+    width: 400px;
+    margin: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    height: 420px;
+}
+.form-group {
+    margin-bottom: 10px !important;
+}
+.form-control {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background: #fafafa!important;
+    border: 2px solid #efefef!important;
+    font-size: 15px!important;
+}
+::placeholder {
+    color: #999!important;
+}
+.btn {
+    margin: 15px auto;
+    padding: 2px!important;
+    font-weight: 600!important;
+}
+.instagram-logo {
+    margin: 15px auto;
+    margin-top: 50px;
+}
+.fb-block img {
+    height: 18px !important;
+    padding: 0 8px 2px;    
+}
+.fb img{
+    height: 18px !important;
+    padding: 0 8px 2px;    
+}
+.or {
+    text-align: center;
+    font-size: 13px!important;
+    color: #999;
+    font-weight: 600;
+}
+.or ::before{
+    content: '';
+    background: #efefef;
+    display: block;
+    height: 2px;
+    width: 110px;
+    position: relative;
+    top: 11px;
+}
+.or ::after{
+    content: '';
+    background: #efefef;
+    display: block;
+    height: 2px;
+    width: 110px;
+    position: relative;
+    bottom: 10px;
+    left: 160px;
+}
+.pass {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.right-column-lower {
+    background: #fff; 
+    border: 1px solid #e6e6e6;
+    width: 400px;
+    margin: 50 40 40 -40;
+    padding-top: 30px;
+    height: 80px;
+}
+.right-column-lower a:hover {
+    text-decoration: none;
+}
+.apps-text {
+    font-size: 15px !important;
+    color: #000;
+    font-weight: 400;
+    margin: 0px;
+    padding:10px;
+    position: relative;
+    bottom: 30px;
+    left: 0px;
+}
+.apps {
+    position: relative;
+    margin-top: 0px;
+    left: 0px;
+}
+.apps img {
+    width: 140;
+    height: 40;
+}
+
+#footer  ul{
+    padding: 0;
+    list-style: none;
+    margin: auto;
+    overflow: hidden;
+}
+#footer li{
+    width: 60%;
+    display: inline;
+}
+#footer li a {
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+    padding-left: 15px;
+    float: left;
+}
+.foot-1  a {
+    margin-left: 200px ;
+}
+.low a {
+    text-align: right;
+    width: 40%;
+    padding-right: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

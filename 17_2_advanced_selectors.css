@@ -1,0 +1,17 @@
+#ex-id  h1, h3{
+    color: red;
+}
+
+#secondp {
+    background-color: sandybrown;
+}
+
+#ex-id p:last-child {
+    background-color: slateblue;
+}
+
+
+#image:hover {
+    filter: invert(100%);
+    transform: scale(2);
+}

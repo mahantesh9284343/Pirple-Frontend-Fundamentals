@@ -1,0 +1,27 @@
+Intro
+
+# What is CSS7
+--> Cascading Style Sheets - Language to style and lay out web pages
+--> can use to style font, color, spacing, layout of page, animation.
+--> Language for stying your document and determining ow it is presented.
+
+# How can we altee the apperence of Html with CSS7
+--> Web browser looks for CSS rules
+   # What's CSS rule now?
+    --> Selectors -- Essencially 'selects' te Html element(e) you want to style
+    --> Properties -- Property which you want to change.
+
+# CSS Declaration
+--> Where you se tthe CSS properties to speciffic values.
+
+# CSS Specificity
+--> Specificity is super important with CSS
+    low priority :- Type Selectors (e.g. h1, div, header, p) 
+    medium priority :- Class Selectors (e.g.   .class-name)
+    high priority :- ID Selectors (e.g. #id-name)
+Example :--
+
+some-element {
+    background-color : red / rgb(255,0,0,) / #12fe34;
+    font=size : 50px;
+}

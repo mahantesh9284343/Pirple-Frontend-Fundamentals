@@ -1,0 +1,16 @@
+.font-color-green {
+    background-color: green;
+    color: white;
+}
+
+.text-blue {
+    color: blue;
+}
+
+.ingredients {
+    color: aliceblue;
+}
+
+.steps p {
+    color:red;
+}

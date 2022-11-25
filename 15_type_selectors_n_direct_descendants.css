@@ -1,0 +1,21 @@
+body {
+    background-color: lightskyblue;
+    width: 1000px;
+}
+
+header ul {
+    background-color: brown;
+}
+
+body section ol {
+    background-color: peachpuff;
+}
+
+section > div > h3 {
+    color: blue;
+}
+
+section > div > div > h3 {
+    color: brown;
+}
+

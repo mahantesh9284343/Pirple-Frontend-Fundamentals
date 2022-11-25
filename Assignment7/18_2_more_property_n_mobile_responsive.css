@@ -1,0 +1,77 @@
+body {
+    background-color: lightblue;
+}
+nav {
+    height: 50px;
+    background-color: lightcoral;
+    width: 100%;
+}
+
+nav ul {
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+}
+
+nav li:hover {
+    background-color: chocolate;
+}
+
+nav ul li {
+    text-decoration: none;
+    color: lightcyan;
+    display: block;
+    padding: 10px 5px;
+}
+
+#intro {
+    text-align: center;
+}
+
+body article section {
+    display: flex;
+}
+
+#blog-text p {
+    width: 50%;
+    padding: 0px 10px;
+    font-size: 20px;
+}
+
+#blog-text p:first-child {
+    margin-left: 10px;
+}
+
+.card {
+    background-color: cornflowerblue;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+
+.card p { 
+    text-align: center;
+}
+ .card li {
+     font-size: 20px;
+ }
+
+#lower-img img {
+    width: 25%;
+    height: 25%;
+}
+
+footer {
+    height: 30px;
+    padding-bottom: 5px 0px 5px 0px;
+    margin-top: 5px;
+    background-color: lightcoral;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
